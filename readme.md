@@ -12,7 +12,7 @@
   <a href="https://github.com/Lakshit2604" target="_blank">
     <img src="https://github.com/Lakshit2604/Lakshit2604/blob/main/Assets/Github logo.png" alt="GitHub Logo" width = "43"/>
   </a> &nbsp &nbsp
-  <a href="www.linkedin.com/in/lakshit-gupta-771842322" target="_blank">
+  <a href="https://www.linkedin.com/in/lakshit-gupta-771842322" target="_blank">
     <img src="https://github.com/Lakshit2604/Lakshit2604/blob/main/Assets/LinkedIn logo.jpg" alt="Linkedin Logo" width = 43/>
   </a>
 </p>
